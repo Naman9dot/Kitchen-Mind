@@ -1,6 +1,6 @@
 # KitchenMind - Modular Architecture
 
-This project has been transformed from a single-file implementation into a clean, modular package structure.
+A scalable, community-driven AI recipe platform (KitchenMind) to support 100k community members and ~10 million recipes. 
 
 ## Project Structure
 
