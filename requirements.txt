@@ -1,0 +1,19 @@
+# Core dependencies for KitchenMind
+
+# Optional: For LLM integration (if using transformers)
+# transformers>=4.30.0
+# torch>=2.0.0
+
+# For data handling (already in Python stdlib, but listed for reference)
+# dataclasses (Python 3.7+)
+# typing (Python 3.5+)
+
+# Development dependencies
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# mypy>=1.0.0
+# flake8>=6.0.0
+
+# No external dependencies required for basic functionality
+# The current implementation uses only Python standard library
